@@ -1,5 +1,7 @@
 # Anomaly-Detection
 
+Note :  Please download the word document for clear documentation.
+
 Unfortunately, there is no clear cut definition for an Anomaly. In simple words, anomalies are the observations that do not match with a well characterized normal behaviour/pattern. Sometimes anomalies are also called as Outliers in a dataset. 
 
  
