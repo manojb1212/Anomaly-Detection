@@ -5,11 +5,14 @@ Unfortunately, there is no clear cut definition for an Anomaly. In simple words,
  
 
 For example, in the above plot, the O1 is clearly an anomaly since it does not belong to any of the groups. On the other hand O2 looks like an anomaly, but its characteristics are not too far away from the normal pattern N2.But the probability of O2 being treated as anomaly is less when compared to O1.  O3 is considered as a Group Anomaly.
+
 We have 3 types of Anomalies:
 a.	Point Anomaly:  If one observation can be observed against other observation as anomaly, it is a point anomaly. O1 and O2 in the above plot are Point anomalies.
 
 b.	Contextual Anomaly: If an observation is anomalous in some defined context (say - time), then it is contextual Anomaly. 
 For example, when you get a call from your boss during official hours, then it is normal, but when you receive a call during out of office hours, then it is considered as a Contextual Anomaly.
+
+
 c.	Collective/Group Anomaly: If some linked observations can be treated against other observations as anomaly, then it is called Collective anomaly, for e.g. O3 in the above plot.
 
 On the abstract level detection of the anomalies seems like a simple task. But this task can be very challenging. Here are some challenges bellow:
